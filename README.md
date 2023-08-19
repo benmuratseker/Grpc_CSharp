@@ -10,3 +10,6 @@
 - desc CreateBlogRequest -> gives which parameter/s needed for this request
 - service BlogService -> activate BlogService
 - call CreateBlog -> call method and it asks you to enter parameters for the call
+
+[https://github.com/googleapis/googleapis/blob/master/google/pubsub/v1/pubsub.proto]
+[https://github.com/googleapis/googleapis/blob/master/google/spanner/v1/spanner.proto]
