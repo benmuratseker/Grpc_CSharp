@@ -1,0 +1,2 @@
+Models/Average.cs \
+Models/AverageGrpc.cs: ../average.proto
